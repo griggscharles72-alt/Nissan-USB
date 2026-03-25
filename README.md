@@ -1,4 +1,4 @@
-Absolutely! I’ll expand the README to cover everything discussed in the whiteboard session, including the logic behind the design, the steps for testing, and details on README - USB Lab Builder
+ README - USB Lab Builder
 
 Project Overview
 
